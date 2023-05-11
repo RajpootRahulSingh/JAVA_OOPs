@@ -26,9 +26,4 @@ public void Mod(int x,int y)
 	int aa=x%y;
 	System.out.println("The Moduls is : "+aa);
 	}
-public void Massage() 
-{
-	System.out.println("Prosses complate And Result Show");
-	
-}
 }
